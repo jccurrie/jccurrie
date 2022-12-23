@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on my BA in Computer Science with a double minor in Graphic Design, and Japanese.<br>I’m looking to collaborate on Front End Web, Mobile, and Data Visualization projects.<br>In the past I've worked in HTML, CSS, JS, Java, Python, AWS, Swift, and Kotlin.<br>I'm currently working on moving into React and React Native development. <br><br>Fun Fact: I love writing orchestral and piano music!
+I recently finished my Bachelor's in Computer Science with a double minor in Graphic Design, and Japanese.<br>I’m looking to collaborate on Front End Web, Mobile, and Data Visualization projects.<br>In the past I've worked in HTML, CSS, JS, Java, Python, AWS, Swift, and Kotlin.<br> <br><br>Fun Fact: I love writing orchestral and piano music!
 
 
 ## Socials:
