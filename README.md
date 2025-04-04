@@ -7,7 +7,9 @@ I recently finished my Bachelor's in Computer Science with a double minor in Gra
 
 ---
 ## **Certifications**
-[![Credly Badge](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/039ec7a4-7f70-4608-a108-c8a9db44847b/public_url)
+[![Credly Badge](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/039ec7a4-7f70-4608-a108-c8a9db44847b/public_url)
+
+---
 
 ### 🧠 **Programming Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
