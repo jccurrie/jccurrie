@@ -8,10 +8,10 @@ I recently finished my Bachelor's in Computer Science with a double minor in Gra
 ---
 
 ### 🧠 **Programming Languages**
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)]
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)]
-[![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)]
-[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 
 ---
 
@@ -62,7 +62,6 @@ I recently finished my Bachelor's in Computer Science with a double minor in Gra
 
 ---
 
-Let me know if you want this turned into a Markdown snippet for GitHub or a portfolio site!
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jccurrie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jccurrie&theme=tokyonight&hide_border=false)<br/>
